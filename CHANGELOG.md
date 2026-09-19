@@ -1,3 +1,22 @@
+# Changelog
+
+All notable changes to this project are documented here. This file is maintained
+automatically by [semantic-release](https://github.com/semantic-release/semantic-release)
+on every release to `main`.
+
+## [1.0.5](https://github.com/bauer-group/CS-S3SharedAssets/compare/v1.0.4...v1.0.5) (2026-09-19)
+
+### 🐛 Bug Fixes
+
+* **ci:** added the missing permissions block ([0cb982a](https://github.com/bauer-group/CS-S3SharedAssets/commit/0cb982a6861945f5e4b8afff49c53965e726610a))
+* **traefik:** stream S3 uploads instead of buffering them ([0aec5ef](https://github.com/bauer-group/CS-S3SharedAssets/commit/0aec5efbc15a637018347db785de67d7170a414f))
+
+### 🔧 Maintenance
+
+* **ci:** removed redundant teams notification ([5c4deac](https://github.com/bauer-group/CS-S3SharedAssets/commit/5c4deac9e9b51a6d77cef859100d06036ecd1508))
+* **codeowners:** reassigned ownership to core team [skip ci] ([eccdcaf](https://github.com/bauer-group/CS-S3SharedAssets/commit/eccdcafef9e90bbc1ee84db656395f28c23710af))
+* **init:** synced merge script (notifications section) ([df3fb56](https://github.com/bauer-group/CS-S3SharedAssets/commit/df3fb561ac28dfc80bcbac179e887b60b67f2c87))
+
 ## [1.0.4](https://github.com/bauer-group/CS-OnlineAssetsShare/compare/v1.0.3...v1.0.4) (2026-07-01)
 
 ## [1.0.3](https://github.com/bauer-group/CS-OnlineAssetsShare/compare/v1.0.2...v1.0.3) (2026-03-18)
